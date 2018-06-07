@@ -1,0 +1,53 @@
+.bloc {
+display: flex;
+flex-wrap: wrap;
+justify-content: flex-end;
+}
+#rectangle1 {
+    width:80%;
+    height:25px;
+    background:#2ECC71;
+}
+#rectangle2 {
+    width:20%;
+    height:25px;
+    background:#2980B9;
+}
+#rectangle3 {
+    width:34%;
+    height:100px;
+    background:#E74C3C;
+}
+#rectangle4 {
+    width:33%;
+    height:50px;
+    background:#E67E22;
+}
+#rectangle5 {
+    width:33%;
+    height:50px;
+    background:#95A5A6;
+}
+#rectangle6 {
+    width:22%;
+    height:50px;
+    background:#F39C12;
+  margin-top: -50px;
+}
+#rectangle7 {
+    width:22%;
+    height:50px;
+    background:#16A085;
+    margin-top: -50px;
+}
+#rectangle8 {
+    width:22%;
+    height:50px;
+    background:#D35400;
+    margin-top: -50px;
+}
+#rectangle9 {
+    width:100%;
+    height:200px;
+    background:#2C3E50;
+}
